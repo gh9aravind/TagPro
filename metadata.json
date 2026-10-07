@@ -1,0 +1,6 @@
+{
+  "name": "Audio Tag Editor",
+  "description": "Modern single-page audio metadata editor to view, edit ID3 tags, update album art, and download updated MP3 files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
